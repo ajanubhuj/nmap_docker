@@ -1,2 +1,2 @@
-sanic==18.12
+sanic==20.12.7
 python-nmap==0.6.1
